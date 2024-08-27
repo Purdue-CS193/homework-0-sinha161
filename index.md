@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# Shivani's First CS193 Homework
+
+## Favorite things about CS193:
+- Fun teachers
+- Decent icebreakers (still not sure on watermelon vs tennis ball as a head)
+- Helps me learn Github!
+
+--------------------
+
+# Guide:
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
